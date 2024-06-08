@@ -1,3 +1,8 @@
+Name: Thota Mani Deep
+Domain: Machine Learning
+Task1: Iris-flower-classification
+
+
 # Iris-flower-classification
 
 📌 Predict the different species of flowers based on the length of their petals and sepals. 🌿🌷
