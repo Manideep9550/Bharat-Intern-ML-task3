@@ -1,6 +1,6 @@
 Name: Thota Mani Deep
 Domain: Machine Learning
-Task1: Iris-flower-classification
+Task3: Iris-flower-classification
 
 
 # Iris-flower-classification
